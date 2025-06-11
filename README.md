@@ -17,6 +17,6 @@ Well, there are some differences:
 * link-time optimizations (`/LTCG` and `/GL`) are enabled in static builds.
 
 ## How to use
-1. Install Visual Studio 2019 or just Build Tools.
+1. Install Visual Studio 2019/2022 or just Build Tools.
 2. Download [prebuilt Qt binaries](https://github.com/martinrotter/qt-minimalistic-builds/releases) and unpack them to folder of your choice, for example `C:\Qt\XX`.
 3. Setup your Qt Creator to use new libraries.
